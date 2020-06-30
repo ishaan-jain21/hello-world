@@ -1,5 +1,3 @@
 # hello-world
 age old tradition 
-words words words words words.
-words words.
-words.
+deleted a few lines to see how it works.
